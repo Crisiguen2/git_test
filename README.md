@@ -1,2 +1,2 @@
 # git_test
-My first githib repo
+My first github repo
